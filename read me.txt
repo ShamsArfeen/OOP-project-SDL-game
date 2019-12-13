@@ -1,0 +1,71 @@
+Game Title: Real Rubik's Cube
+
+How to Setup:
+Following packages are required for the game compilation:
+1. SDL 2.0.5
+2. SDL image 2.0.10
+3. SDL mixer 2.0.15
+4. SDL TTF 2.0.15
+
+How to Play:
+Click on the "start game" button to start game from a shuffled cube and try making "moves" to solve it. To pause the game a
+t any point while playing click on the "To menu" button. To leave the game while playing, navigate to the menu from the 
+pause screen.
+
+How to Save Game:
+To save the current progress while in playing mode, click on the "save game" button.
+
+How to Load Game:
+To load the last saved game, click on the "load game" button while in playing mode. Doing so however will lost your current
+game progress.
+
+How to Toggle Between "Number Cube" and "Empty Square Cube":
+Click on the difficulty level button from the menu screen. Select "Master" mode for number cube or "Novice" mode for empty
+square cube.
+
+How to Quit Game:
+Click on the "Quit" button from menu screen to quit game.
+
+Credits:
+Shams Arfeen: as team lead
+Abdullah Arif
+Sabihul Hasan
+Arsalan Shoaib
+
+About Team Work:
+Hours spent individually by each member are as follows:
+S. Arfeen: 25 hours
+A. Arif: 18 hours
+S. Hasan: 18 hours
+A. Shoiab: 19 hours
+Additional 8 hours were spent in combined works by the team.
+
+Individual Contributions:
+
+Shams Arfeen:
+1. Setup of 3D engine in the game.
+2. 3D Objects animation, designing, and preview of surface texture and rendering.
+3. Detection if cube is solved.
+2. Loading and saving game 50%.
+4. 60% Progress videos and assignments submission
+
+Abdullah Arif:
+1. 3D points, surfaces, and wireframe methods and data handling organization.
+2. User interaction with the 3D objects such as rotation preview and solving options.
+3. Pause screen and in-game screen handler.
+
+Sabihul Hasan:
+1. Spin moves of the Rubrik's cube using build factory design pattern 50% contirbution.
+2. Menu screens and buttons handlers.
+3. 40% Progress videos.
+
+Arsalan Shoaib:
+1. Spin moves of the Rubrik's cube using build factory design pattern 50% contirbution.
+2. Loading and saving game 50%. 
+3. Music and sound implementation.
+4. UML daigrams.
+
+For more exact work division, please see UML diagram.
+
+Link for the Project's youtube channel:
+https://www.youtube.com/playlist?list=PLEhPVW1KPRLRi4AOxZR34ryHtFxsVvRxH
